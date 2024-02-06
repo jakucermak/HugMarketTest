@@ -19,7 +19,7 @@ I created two functions one *slow* (using list) and second *fast* (using diction
 Simply run `python3 main.py --list {whatever list of numbers}`
 
 ## Executing test
-1. Create virtual environment
+1. Create virtual environment `python3 -m venv venv`
 2. Source your virtual environment `source venv/bin/activate`
 3. Execute to install dependencies:
     ```bash
